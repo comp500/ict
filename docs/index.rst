@@ -41,13 +41,11 @@ This web site provides you with a wealth of resources to help you complete (and 
 15. Web site Authoring (Web Design)
 16. Presentation Authoring (PowerPoint) 
 
------------------------
 Assessment at a glance:
 -----------------------
 
 Candidates take 3 exam papers.
 
-^^^^^^^^^^^^^^^^^
 Paper 1 (2 hours)
 ^^^^^^^^^^^^^^^^^
 Written paper which tests sections 1-8 of the curriculum content and assesses skills in AO2
@@ -55,7 +53,6 @@ All questions compulsory: mostly multiple choice or short answers.
 
 100 marks weighted at 40% of total.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Paper 2 and 3 (2.5 hours each)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Practical test assessing knowledge, skills and understanding of sections 9-16 of the curriculum content.
