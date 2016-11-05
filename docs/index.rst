@@ -56,12 +56,12 @@ Candidates (of the Cambridge IGCSE) take 3 exam papers.
 Paper 1
 ^^^^^^^
 
+Written paper which focuses on all 21 sections of the curriculum content and assesses skills in AO2
+All questions compulsory: mostly multiple choice or short answers.
+
 - 2 hours
 - 100 marks
 - 40% of your IGCSE
-
-Written paper which focuses on all 21 sections of the curriculum content and assesses skills in AO2
-All questions compulsory: mostly multiple choice or short answers.
 
 ^^^^^^^
 Paper 2
