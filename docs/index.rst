@@ -55,9 +55,9 @@ All questions compulsory: mostly multiple choice or short answers.
 
 100 marks weighted at 40% of total.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Paper 2 and 3 (2.5 hours)
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Paper 2 and 3 (2.5 hours each)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Practical test assessing knowledge, skills and understanding of sections 9-16 of the curriculum content.
 
-80 marks weighted at 30% of total.
+80 marks each, weighted at 30% of total.
