@@ -27,37 +27,56 @@ This web site provides you with a wealth of resources to help you complete (and 
 1. Types and components of computer systems
 2. Input and output devices
 3. Storage devices and media
-4. Computer networks
-5. Data types
-6. The effects of using ICT
-7. The ways in which ICT is used
-8. Systems analysis and design
-9. Communication (Email and Web)
-10. Document Production (Word)
-11. Data Manipulation (Access)
-12. Integration
-13. Output Data
-14. Data Analysis (Excel)
-15. Web site Authoring (Web Design)
-16. Presentation Authoring (PowerPoint) 
+4. Networks and the effects of using them
+5. The effects of using ICT
+6. ICT applications
+7. The systems life cycle
+8. Saftey and security
+9. Audience
+10. Communication
+11. File management
+12. Images
+13. Layout
+14. Styles
+15. Proofing
+16. Graphs and charts
+17. Document production
+18. Data manipulation
+19. Presentations
+20. Data analysis
+21. Website authoring
 
 -----------------------
 Assessment at a glance:
 -----------------------
 
-Candidates take 3 exam papers.
+Candidates (of the Cambridge IGCSE) take 3 exam papers.
 
-^^^^^^^^^^^^^^^^^
-Paper 1 (2 hours)
-^^^^^^^^^^^^^^^^^
-Written paper which tests sections 1-8 of the curriculum content and assesses skills in AO2
+^^^^^^^
+Paper 1
+^^^^^^^
+
+- 2 hours
+- 100 marks
+- 40% of your IGCSE
+
+Written paper which focuses on all 21 sections of the curriculum content and assesses skills in AO2
 All questions compulsory: mostly multiple choice or short answers.
 
-100 marks weighted at 40% of total.
+^^^^^^^
+Paper 2
+^^^^^^^
+Practical test assessing knowledge, skills and understanding of sections 17, 18 and 19 of the curriculum content.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Paper 2 and 3 (2.5 hours each)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Practical test assessing knowledge, skills and understanding of sections 9-16 of the curriculum content.
+- 2 hours and 30 minutes
+- 80 marks
+- 30% of your IGCSE
 
-80 marks each, weighted at 30% of total.
+^^^^^^^
+Paper 3
+^^^^^^^
+Practical test assessing knowledge, skills and understanding of sections 20 and 21 of the curriculum content.
+
+- 2 hours and 30 minutes
+- 80 marks
+- 30% of your IGCSE
