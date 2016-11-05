@@ -32,7 +32,7 @@ This web site provides you with a wealth of resources to help you complete (and 
 5. The effects of using ICT
 6. ICT applications
 7. The systems life cycle
-8. Saftey and security
+8. Safety and security
 9. Audience
 10. Communication
 11. File management
