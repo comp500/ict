@@ -11,9 +11,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: 1: Types and components of computer systems
    :glob:
 
-   *
+   typesandcomponents/*
 
 Indices and tables
 ==================

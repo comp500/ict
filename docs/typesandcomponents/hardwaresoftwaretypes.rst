@@ -1,9 +1,6 @@
-===========================================
-1: Types and Components of Computer Systems
-===========================================
-
+==========================================
 1.1: Hardware, Software and Computer Types
-------------------------------------------
+==========================================
 This section will take a look at hardware/software and the different types of computers.
 
 You will learn the differences between hardware and software, as well as examples of each.
