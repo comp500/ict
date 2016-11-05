@@ -66,6 +66,7 @@ All questions compulsory: mostly multiple choice or short answers.
 ^^^^^^^
 Paper 2
 ^^^^^^^
+
 Practical test assessing knowledge, skills and understanding of sections 17, 18 and 19 of the curriculum content.
 
 - 2 hours and 30 minutes
@@ -75,6 +76,7 @@ Practical test assessing knowledge, skills and understanding of sections 17, 18 
 ^^^^^^^
 Paper 3
 ^^^^^^^
+
 Practical test assessing knowledge, skills and understanding of sections 20 and 21 of the curriculum content.
 
 - 2 hours and 30 minutes
