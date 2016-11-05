@@ -15,13 +15,7 @@ Contents:
    :glob:
 
    typesandcomponents/*
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   
 
 This web site provides you with a wealth of resources to help you complete (and pass) the CIE IGCSE ICT course. The web site covers all 16 sections which are made up of 8 theory units and 8 practical. The course breaks down as follows:
 
