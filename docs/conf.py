@@ -23,10 +23,5 @@ latex_documents = [
    u'', 'manual'),
 ]
 
-html_static_path = ['_static']
-
-html_context = {
-    'css_files': [
-        '_static/theme_overrides.css',  # overrides for wide tables in RTD theme
-        ],
-    }
+def setup(app):
+   app.add_stylesheet("theme_overrides.css")
