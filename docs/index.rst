@@ -8,7 +8,7 @@ Welcome to ict.infra.link, the home for ICT resources.
 
 This site aims to give you revision resources on all 21 topics, whether or not they are theory or practical.
 
-We aren't done yet! Please join us at https://discord.gg/xRCRh to help us!
+We aren't done yet! Please join us at https://discord.gg/b7Z7q4v to help us!
 
 .. toctree::
    :maxdepth: 2
