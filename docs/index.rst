@@ -6,7 +6,9 @@ Welcome to ict.infra.link, the home for ICT resources.
 
 .. warning:: This document is (probably) protected by international law (in most countries)
 
-This web site provides you with a wealth of resources to help you complete (and pass) the CIE IGCSE ICT course. The web site covers all 16 sections which are made up of 8 theory units and 8 practical. The course breaks down as follows:
+This site aims to give you revision resources on all 21 topics, whether or not they are theory or practical.
+
+We aren't done yet! Please join us at https://discord.gg/xRCRh to help us!
 
 .. toctree::
    :maxdepth: 2
