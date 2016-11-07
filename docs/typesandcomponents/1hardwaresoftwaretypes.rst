@@ -69,6 +69,7 @@ Other examples of system software include: Graphic Drivers, Debuggers to identif
 * Spreadsheet Programs
 	  	
 Other examples of application software include: Presentation Program (PowerPoint), Database Program (Access), Web Browser (Internet Explorer), CAD Design Software, Media players, Computer Games
+
 .. warning:: **Note:** If you are asked to name types of software you should NOT use brand names. For example, you should use 'Graphics Editor' rather than 'Adobe Photoshop'.
 
 Types of Computers
