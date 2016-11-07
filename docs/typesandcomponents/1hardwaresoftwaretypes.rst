@@ -192,7 +192,7 @@ PDA (personal digital assistant)
 +                                                                                          +-------------------------------------------------------------------------------------+
 |                                                                                          | Limited power... especially compared to desktop PC's.                               |
 +------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
-~~Palmtop~~
+<del>Palmtop</del>
 """""""
 * Palmtop's are very similar in computing power to PDA’s and are used for basic functions such as:
 
