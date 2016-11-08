@@ -1,6 +1,8 @@
 ======================
-6.5: Health and Safety
+5.5: Health and Safety
 ======================
+
+.. note:: This topic is labeled as 6.5 on the ICT Lounge, but it is within topic 5 in the exam specification. We are going to use the numbering provided by the exam board, so this topic is numbered 5.5.
 
 There are a number of safety hazards linked with using computers and ICT devices.
 
