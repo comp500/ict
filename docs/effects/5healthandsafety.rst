@@ -26,8 +26,38 @@ RSI is caused by doing the same small movements over and over again across a lon
 
 Computer users who type and use a mouse all day long are commonly affected.
 
+================================== ==============================================
+Causes of RSI                      How to prevent RSI
+================================== ==============================================
+Typing on a computer for too long. Take breaks to rest your hands.
+Using a mouse for long periods.    Use an ergonomic keyboard/mouse.
+Holding the mouse incorrectly.     Arrange your workspace so you are not cramped.
+Working in a cramped workspace.    Use a wrist rest.
+================================== ==============================================
+
 2: Back and Neck Problems
 """""""""""""""""""""""""
+Back ache and neck ache can cause great pain and really affect the quality of your life.
 
+Both back and neck ache can be caused by sitting incorrectly and using poor quality chairs without back rests. This is called poor posture (see below).
+
++-----------------------------------------------+------------------------------------------------------------------------------+
+| Causes of back and neck ache                  | How to prevent back and neck ache                                            |
++===============================================+==============================================================================+
+| Working in a cramped workspace.               | Take regular breaks to stretch your body.                                    |
++-----------------------------------------------+------------------------------------------------------------------------------+
+| Not sitting upright in your chair.            | Use adjustable chairs so you can sit in a position suitable for your height. |
++-----------------------------------------------+------------------------------------------------------------------------------+
+| Incorrect positioning of the computer screen. | Sit upright against the back rest.                                           |
++                                               +------------------------------------------------------------------------------+
+|                                               | Tilt the computer screen so it is set just below your eye level.             |
++                                               +------------------------------------------------------------------------------+
+|                                               | Keep your feet flat on the floor.                                            |
++-----------------------------------------------+------------------------------------------------------------------------------+
 3: Eye Strain and Headaches
 """""""""""""""""""""""""""
+Staring at a computer screen for too long can strain your eyes and cause headaches.
+
+Eye strain can cause your vision to blur.
+
+Common causes of eye strain are screen flicker and having direct light causing screen glare (click links for video examples). 
