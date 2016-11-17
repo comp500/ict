@@ -7,9 +7,11 @@ An output device displays the results of the processing
 Temporary output devices
 """"""""""""""""""""""""
 These are objects such as Projectors, monitors and 7 segment displays. they are constantly refreshed and there is no permenant record in general of the data displayed
+
 Permenant output devices
 """"""""""""""""""""""""
 These are normally printers, whereby once the data is output, it has a permenant record. there are three types of printer:
+
 +--------------------+---------+-----------+--------------+-----------------+
 | Printer name       | Quality | Ink price | Initial cost | Used for        |
 +====================+=========+===========+==============+=================+
