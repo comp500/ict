@@ -5,19 +5,21 @@ Once data has been input into a computer system and processed, it is now 'useful
 An output device displays the results of the processing
 
 Temporary output devices
+""""""""""""""""""""""""
 These are objects such as Projectors, monitors and 7 segment displays. they are constantly refreshed and there is no permenant record in general of the data displayed
-permenant output devices
-these are normally printers, whereby once the data is output, it has a permenant record. there are three types of printer:
+Permenant output devices
+""""""""""""""""""""""""
+These are normally printers, whereby once the data is output, it has a permenant record. there are three types of printer:
 +--------------------+---------+-----------+--------------+-----------------+
 | Printer name       | Quality | Ink price | Initial cost | Used for        |
 +====================+=========+===========+==============+=================+
-| Laser printer      | medium  | low       | medium       | mass printing   |
+| Laser printer      | Medium  | Low       | Medium       | Mass printing   |
 +--------------------+---------+-----------+--------------+-----------------+
-| Inkjet printer     | High    | expensive | low          | photo printing  |
+| Inkjet printer     | High    | Expensive | Low          | Photo printing  |
 +--------------------+---------+-----------+--------------+-----------------+
-| Plotter            | high    | high      | high         | Large printouts |
+| Plotter            | High    | High      | High         | Large printouts |
 +--------------------+---------+-----------+--------------+-----------------+
-| Dot matrix printer | low     | low       | medium       | recipts         |
+| Dot matrix printer | Low     | Low       | Medium       | Recipts         |
 +--------------------+---------+-----------+--------------+-----------------+
 
 
